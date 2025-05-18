@@ -5,7 +5,7 @@ Olá! 👋 Este projeto é um chatbot de triagem para sintomas depressivos, dese
 
 CONTEXTO E MOTIVAÇÃO:
 
-Com experiência em programação e formação em psicologia e psicometria, percebo a importância de ferramentas acessíveis para uma primeira avaliação de saúde mental. Este chatbot é um passo inicial na criação de soluções digitais que podem ajudar a identificar pessoas que precisam de avaliação profissional. A estrutura das perguntas e a forma de avaliar foram baseadas em ferramentas de avaliação com reconhecimento científico, como o SCID-5-RV, o BDI-II e o PHQ-9. A ideia foi usar a lógica dessas ferramentas de um jeito mais simples.
+Com formação em psicologia e psicometria, percebo a importância de ferramentas acessíveis para uma primeira avaliação de saúde mental. Este chatbot é um passo inicial na criação de soluções digitais que podem ajudar a identificar pessoas que precisam de avaliação profissional. A estrutura das perguntas e a forma de avaliar foram baseadas em ferramentas de avaliação com reconhecimento científico, como o SCID-5-RV, o BDI-II e o PHQ-9. A ideia foi usar a lógica dessas ferramentas de um jeito mais simples.
 
 FUNÇÃO:
 
